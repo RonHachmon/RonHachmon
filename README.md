@@ -47,7 +47,11 @@
 </p>
 
 <!--
+handy stuff:
   <img src=""/>
+https://dev.to/envoy_/150-badges-for-github-pnk#ide
+
+
 **RonHachmon/RonHachmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
