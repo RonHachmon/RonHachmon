@@ -1,7 +1,7 @@
 ### Hi there i'm Ron Hachmon 👋
 
 ## I'm a CS graduate
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning computer visioning through numpy and open cv
 
 
   Hobbies:
