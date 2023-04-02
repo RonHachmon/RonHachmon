@@ -1,7 +1,8 @@
 ### Hi there i'm Ron Hachmon 👋
 
 ## I'm a CS graduate
-- 🌱 I’m currently learning computer visioning through numpy and open cv
+- 🌱 I’m currently learning deep learning through keras,
+     and web application using Typescript and React
 
 
   Hobbies:
@@ -30,12 +31,16 @@
     <img src="https://img.shields.io/badge/MonoGames-E73C00?style=for-the-badge&logo=MonoGames&logoColor=white"/>
   </p>
   
-   <p>
+<p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 # Tools
