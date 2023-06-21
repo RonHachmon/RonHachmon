@@ -30,7 +30,7 @@
  <p>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/MonoGames-E73C00?style=for-the-badge&logo=MonoGames&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MonoGame-E73C00?style=for-the-badge&logo=monogame&logoColor=white"/>
   </p>
   
 <p>
