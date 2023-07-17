@@ -10,6 +10,7 @@ https://ron-hachmon.vercel.app/
   * Programming 💻
   * Gaming 🎮
   * Hiking 🗻
+  * Cooking :man_cook:
 
   
 # Programming languages:
