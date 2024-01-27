@@ -1,15 +1,16 @@
 ### Hi there i'm Ron Hachmon 👋
 https://ron-hachmon.vercel.app/
 
-## I'm a Software developer
-Software developer with a fervent passion for crafting clean, object-oriented code.
-I thrive on tackling complex algorithms and bringing order to intricate systems. My code reflects not just functionality, but elegance and maintainability.
+## I'm a Software Developer Who Writes Clean, Maintainable Code
+
+I'm driven by a passion for crafting code that's not only functional but also elegant and easy to understand.
+I thrive on solving complex problems using object-oriented principles and bringing order to intricate systems. My goal is to create code that's both a pleasure to read and a joy to maintain.
 
 
   Hobbies:
   * Programming 💻
   * Gaming 🎮
-  * Hiking 🗻
+  * Salsa :man_dancing:
   * Cooking :man_cook:
 
   
