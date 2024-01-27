@@ -1,9 +1,9 @@
 ### Hi there i'm Ron Hachmon 👋
 https://ron-hachmon.vercel.app/
 
-## I'm a CS graduate
-- 🌱 I’m currently learning deep learning through keras,
-     and web application using Typescript and React
+## I'm a Software developer
+Software developer with a fervent passion for crafting clean, object-oriented code.
+I thrive on tackling complex algorithms and bringing order to intricate systems. My code reflects not just functionality, but elegance and maintainability.
 
 
   Hobbies:
